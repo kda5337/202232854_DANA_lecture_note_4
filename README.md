@@ -56,22 +56,45 @@ Usage example
 
 #####Caution!
 > Manipulation functions can delete or overwrite your files and directories.  
-> Please backup your contents before you use this command.  
+> Please backup your contents before you use this command.
 
 ---
 
 **1. Manipulation: cp**  
 Fuction: 'cp' stands for copy, and it copy files and directories  
-Extra functions are below.
+Specific functions are below.
 
 ![cp extra function](https://github.com/kda5337/202232854_DANA_lecture_note_4/assets/144139251/36b24d5d-3fbe-455a-a0c1-205b0c8c9bfc)
-
+  
 
 **2. Manipulation: mv**  
 Fuction: 'mv' stands for move, and it move files and directories or rename them  
-Extra functions are below.
+Specific functions are below.
 
-![mv extra function](https://github.com/kda5337/202232854_DANA_lecture_note_4/assets/144139251/36b24d5d-3fbe-455a-a0c1-205b0c8c9bfc)
+![mv extra function](https://github.com/kda5337/202232854_DANA_lecture_note_4/assets/144139251/a5dd4b12-bf5f-4fd9-b2f6-3c4717d5d13c)
+  
+**3. Manipulation: rm**  
+Fuction: 'rm' stands for remove, and it delete files and directories ***permantely and irreversevely!***  
+**YOU REALLY HAVE TO CAREFUL WITH USING THIS COMMAND**  
+Specific functions are below.  
+
+![rm extra function](https://github.com/kda5337/202232854_DANA_lecture_note_4/assets/144139251/1768ab92-08c9-4d56-a960-5042d55b809c)  
+
+  
+**4. Manipulation: mkdir**  
+Fuction: 'mkdir' stands for 'make directory', and this command makes a new directory
 
 
+**5. Manipulation: Wildcards**  
+Pictures below explain the other functions that is not mentioned above.
+Take a look if you want extra information 
 
+![wildcard1 extra function](https://github.com/kda5337/202232854_DANA_lecture_note_4/assets/144139251/df1d6e52-3576-41ba-ac85-2f195fa30966)  
+![wildcard2 extra function](https://github.com/kda5337/202232854_DANA_lecture_note_4/assets/144139251/e91d643d-b1bb-41c0-b62d-f9eb2f88fea7)  
+
+---
+
+
+***If you enter 'exit', you can exiting terminal***
+
+##**THANK YOU FOR READING THIS DOCUMENT**
