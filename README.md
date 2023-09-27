@@ -64,9 +64,14 @@ Usage example
 Fuction: 'cp' stands for copy, and it copy files and directories  
 Extra functions are below.
 
-![cp extra function]
+![cp extra function](https://github.com/kda5337/202232854_DANA_lecture_note_4/assets/144139251/36b24d5d-3fbe-455a-a0c1-205b0c8c9bfc)
 
 
+**2. Manipulation: mv**  
+Fuction: 'mv' stands for move, and it move files and directories or rename them  
+Extra functions are below.
+
+![mv extra function](https://github.com/kda5337/202232854_DANA_lecture_note_4/assets/144139251/36b24d5d-3fbe-455a-a0c1-205b0c8c9bfc)
 
 
 
