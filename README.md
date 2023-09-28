@@ -97,4 +97,7 @@ Take a look if you want extra information
 
 ***If you enter 'exit', you can exiting terminal***
 
+**All of contents and pictures used on this markdown refers to Gachon University educational document**  
+**If you want to know more about reference. please contact me**
+
 ##**THANK YOU FOR READING THIS DOCUMENT**
